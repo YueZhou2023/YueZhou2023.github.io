@@ -1,0 +1,102 @@
+minify: true
+darkmode: true
+language_switcher: true
+cache:
+  enable: false
+footer:
+  since: 2016
+  icon:
+    animated: true
+creative_commons:
+  sidebar: true
+  post: true
+scheme: Gemini
+menu:
+  home: / || fa fa-home
+  cv: /cv/ || fas fa-file
+  softwares: /softwares/ || fab fa-app-store
+  categories: /categories/ || fa fa-th
+  archives: /archives/ || fa fa-archive
+menu_settings:
+  badges: true
+social:
+  GitHub: https://github.com/njzjz || fab fa-github
+  E-Mail: mailto:jinzhe.zeng@rutgers.edu || fa fa-envelope
+  ORCID: https://orcid.org/0000-0002-1515-8172 || fab fa-orcid
+  Scholar: https://scholar.google.com/citations?user=P7gRtg4AAAAJ || fab fa-google
+  ResearchGate: https://www.researchgate.net/profile/Jinzhe_Zeng || fab fa-researchgate
+  Zhihu: https://www.zhihu.com/people/zeng-jin-zhe || fab fa-zhihu
+  Weibo: https://weibo.com/njzjz || fab fa-weibo
+  Bilibili: https://space.bilibili.com/421240980/ || fa-brands fa-bilibili
+social_icons:
+  icons_only: true
+  transition: true
+follow_me:
+  Twitter: https://twitter.com/njzjz || twitter
+  WeChat: https://open.weixin.qq.com/qr/code?username=gh_c3cec7062858 || wechat
+reward_settings:
+  enable: true
+  animation: true
+mobile_layout_economy: true
+pjax: false
+lazyload: true
+mediumzoom: true
+pangu: true
+quicklink:
+  enable: true
+  home: true
+  archive: true
+motion:
+  enable: false
+  async: true
+related_posts:
+   enable: false
+post_edit:
+  enable: true
+  url: https://github.com/njzjz/njzjz.github.io/tree/hexo/source/ # Link for view source.
+note:
+  style: modern
+  icons: true
+codeblock:
+  copy_button:
+    enable: true
+    show_result: true
+reading_progress:
+  enable: true
+bookmark:
+  enable: true
+github_banner:
+  enable: true
+  permalink: https://github.com/njzjz/njzjz.github.io
+seo: true
+index_with_subtitle: true
+exturl: true
+baidu_push: false
+math:
+  mathjax:
+    enable: true
+comments:
+  lazyload: false
+local_search:
+  enable: true
+pdf:
+  enable: true
+links_settings:
+  icon: fa fa-link
+  title: Friend Links
+  layout: block
+links:
+  "Darrin York Group": http://theory.rutgers.edu/profile.php?people_id=230
+  "Tong Zhu Group": https://computchem.cn/people
+  "DeepModeling": https://deepmodeling.com
+  "hexi blog": https://hexi519.github.io
+vendors:
+  internal: cdnjs
+  plugins: cdnjs
+nprogress:
+  enable: true
+preconnect: true
+#google_analytics:
+#  tracking_id: G-E1TJFFMGRY
+custom_file_path:
+  style: source/_data/styles.styl
